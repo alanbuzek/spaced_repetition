@@ -1,6 +1,6 @@
-# Masterlingo spaced repetition
+# Spaced repetition
 
-An algorithm responsible for deciding intervals for flashcard revision, inspired by the original spacedRepetion algorithm
+An algorithm responsible for deciding intervals for flashcard revision, inspired by the original spacedRepetion algorithm. Currently used at masterlingoapp.com.
 
 ## Usage
 
